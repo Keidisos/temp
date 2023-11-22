@@ -1,5 +1,3 @@
 <?php
-$dir = ('./');
-$file = scandir($dir);
-print_r($file);
+show_source('index.php');
 ?>
